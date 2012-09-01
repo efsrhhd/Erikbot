@@ -1,0 +1,3 @@
+Eine Weiterentwicklung des Bots mit individuellem IRC-Channel.
+Die .cpp kompiliert einwandfrei und der vom Nutzer eingegebene Channel wird an die Variable übergeben. Leider erscheint der Bot nicht im Channel. Konnte den Fehler selber nicht herausfinden. In Programmiererforen wurde ich anstatt Hilfe zu bekommen für meine schlechten Kenntnisse beleidigt :(
+Wollte das Ganze, da ich Zeit & Arbeit investiert habe trotzdem anhängen.
